@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseRecyclerView</string>
+    <string name="labelProducto">Nombre</string>
+    <string name="textProducto">Nombre del producto</string>
+    <string name="textPrecio">$100.00</string>
+    <string name="labelExistencia">¿En Existencia?</string>
+    <string name="textExistencia">SI</string>
+    <string name="labelPrecio">Precio</string>
+</resources>
